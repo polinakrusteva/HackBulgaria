@@ -1,0 +1,47 @@
+{
+ "name": "OneRepublic - Native",
+ "songs": [
+  {
+   "album": "Native",
+   "artist": "OneRepublic",
+   "title": "Counting Stars",
+   "length": "04:16"
+  },
+  {
+   "album": "Native",
+   "artist": "OneRepublic",
+   "title": "If I lose Myself",
+   "length": "04:01"
+  },
+  {
+   "album": "Native",
+   "artist": "OneRepublic",
+   "title": "Feel Again",
+   "length": "03:05"
+  },
+  {
+   "album": "Native",
+   "artist": "OneRepublic",
+   "title": "What You Want",
+   "length": "04:01"
+  },
+  {
+   "album": "Native",
+   "artist": "OneRepublic",
+   "title": "I Lived",
+   "length": "03:56"
+  },
+  {
+   "album": "Native",
+   "artist": "OneRepublic",
+   "title": "Light It Up",
+   "length": "04:10"
+  },
+  {
+   "album": "Native",
+   "artist": "OneRepublic",
+   "title": "Burning Bridges",
+   "length": "04:17"
+  }
+ ]
+}
